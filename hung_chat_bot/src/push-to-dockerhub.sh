@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set variables
-DOCKER_USERNAME="congdinh2012"
+DOCKER_USERNAME="nmhung1509"
 IMAGE_NAME_CLIENT="vivuchat-client"
 IMAGE_NAME_SERVER="vivuchat-server"
 TAG="latest"
